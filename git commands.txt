@@ -1,0 +1,15 @@
+this 6 commands is for pushing code in github for 1st time : 
+
+git init
+
+git remote add origin url
+
+git remote -v
+
+git add .
+
+git commit -m "message"
+
+git push -u origin master
+
+after 1st push (commit) use last 3 commands only
