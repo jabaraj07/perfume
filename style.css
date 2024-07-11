@@ -1,0 +1,72 @@
+.color{
+    background-color:lightgoldenrodyellow;
+}
+.head{
+    background-color: black;
+    color: white;
+}
+.head1{
+    display: inline;
+
+}
+.head2{
+    display: inline;
+    margin: 35%;
+    
+}
+.searchbar{
+    padding: 30px;
+    width: 100px;
+    margin: auto;
+}
+table:hover{
+color: yellow;
+}
+
+.no{
+    margin: auto;
+    width: 500px;
+    padding: 5px;
+}
+.mouse:hover{
+    border: solid;
+   color: green;
+   transition: 2s;
+   border-radius: 50%;
+  
+}
+.card{
+    display: inline-block;
+    border: solid;
+    border-color: black;
+    text-align: center;
+    margin: auto;
+
+}
+.dhoni{
+    width: 50px;
+    display: inline;
+    padding: 25%;
+}
+.card:hover{
+
+    background-color: black;
+    color: white;
+}
+.ABOUT{
+    text-align: center;
+}
+.para{
+    text-align: center;
+    color: green;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+  margin: 0%;
+  padding: 0%;
+}
+.contact:hover{
+    color:yellowgreen;
+}
